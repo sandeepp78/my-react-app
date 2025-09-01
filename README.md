@@ -53,4 +53,4 @@ Run npm install to install dependencies.
 
 Start the development server using npm start.
 
-Open the app in your browser at http://localhost:3000.
+Open the app in your browser at https://sandeepp78.github.io/my-react-app
